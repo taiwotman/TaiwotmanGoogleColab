@@ -9,3 +9,6 @@
 4. [Code Ready ETL using Pyspark, VS Code, AWS Redshift, and S3](https://github.com/taiwotman/TaiwotmanGoogleColab/blob/main/Code_Ready_ETL_using_Pyspark%2C_VS_Code%2C_AWS_Redshift%2C_and_S3.ipynb)
 4. [A JSON Unit Test Scenario: Loading JSON schema and Testing the Types from the String Key Path with an Assert Statement](https://github.com/taiwotman/TaiwotmanGoogleColab/blob/main/Json_reader_with_unittest.ipynb)
 6. [Hyperparameter Naming a.k.a Sofia's Data Science Problem](https://github.com/taiwotman/TaiwotmanGoogleColab/blob/main/hyperparameter_naming.ipynb)
+
+
+For your coding needs, feel free to [contact me](https://taiwotman.github.io/#contact)
